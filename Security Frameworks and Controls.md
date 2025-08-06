@@ -13,6 +13,10 @@
 		4. monitoring and communicating results e.g. monitor network report to GRC officer
 2. Security Controls
 	- safeguards designed to reduce specific security risks e.g. company may have guideline that require employees to complete security training
+	Types of controls:
+		- Encryption - process of converting data from readable format to an encoded format. plain-text to cipher-text. Ensures Confidentiality.
+		- Authentication - process of verifying who someone or something is. they are who they claim.
+		- Authorization - granting access to specific resources. verifying that a person has access to specific resource.
 3. CIA triad
 	- a functional model that helps inform how organizations consider risk when setting up systems and security policies.
 	- Confidentiality - only authorized users can access specific assets or data
