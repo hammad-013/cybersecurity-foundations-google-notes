@@ -5,4 +5,4 @@ A manual that provides details about any operational action.
    - Containment (Prevent further damage)
    - Eradication and Recovery
    - Post Incident Activity
-   - Coordination
+   - Coordination 
